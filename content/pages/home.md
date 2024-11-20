@@ -4,7 +4,7 @@ title: 얼굴 인식
 sections:
   - type: HeroSection
     title: An Empty Page
-    subtitle: The section subtitle
+    subtitle: ''
     text: ''
     actions:
       - type: Button

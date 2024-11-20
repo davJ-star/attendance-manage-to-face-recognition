@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Empty page
+title: 얼굴 인식
 sections:
   - type: HeroSection
     title: An Empty Page

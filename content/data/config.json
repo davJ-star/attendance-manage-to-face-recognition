@@ -3,14 +3,7 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "title": "AI 기반 얼굴 인식 프로그램",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
-                "underline": "hover"
-            }
-        ]
+        "navLinks": []
     },
     "footer": {
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",

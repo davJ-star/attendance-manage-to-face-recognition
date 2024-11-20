@@ -3,7 +3,7 @@ type: Page
 title: 얼굴 인식
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: ''
     subtitle: ''
     text: ''
     actions:

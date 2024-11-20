@@ -6,11 +6,5 @@ sections:
     title: ''
     subtitle: ''
     text: ''
-    actions:
-      - type: Button
-        label: Learn more
-        url: /
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
 ---

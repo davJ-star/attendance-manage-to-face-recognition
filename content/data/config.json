@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "AI 기반 얼굴 인식 프로그램",
         "navLinks": [
             {
                 "type": "Link",

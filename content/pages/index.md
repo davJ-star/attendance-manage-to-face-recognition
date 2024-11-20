@@ -17,7 +17,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: DH
+        label: Read the Docs(임시)
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
